@@ -15,14 +15,15 @@ Kennarar með innu sem home page
 Disable Internet Explorer
 Setja kvóta á heimasvæði nemenda
 Setja kvóta á heimasvæði kennara
-
+Nemendur geta ekki notað task manager eða controle panel
+prompt password from hibernation/suspend (allir)
 *** Kennarar skulu vera með Admin aðgang að Win8.1 tölvunum.
 
 04.05.18
 Nemendur eru með safe browsing á chrome
 Nemendur geta ekki eytt history úr chrome eða browsernum sjálfum úr tölvunni
 Allir eru með chrome sem default browser
-Allir eru með screensaverinn bubbles með 10 mín timeout
+Allir eru með screensaverinn bubbles með 5 mín timeout
 
 *Do not allow storage of passwords and credentials for network authentication
 
