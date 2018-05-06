@@ -12,6 +12,8 @@ Setja upp chrome, kennara eiga að vera með Innu sem upphafssíðu,
 Tbr með forritun.is sem home page 
 UF með tskoli.is sem home page
 Kennarar með innu sem home page
+Setti upp firefox, sömu upphafssíður á brautirnar og á chrome.
+Firefox er með læst history hjá nemendum, með physhing protection enabled og vistar ekki form data
 Disable Internet Explorer
 Setja kvóta á heimasvæði nemenda
 Setja kvóta á heimasvæði kennara
@@ -32,6 +34,7 @@ Allir eru með screensaverinn bubbles með 5 mín timeout
 Notendur geta ekki eytt prentara
 Nemendur geta ekki bætt við prentara
 Nemendur geta ekki notað powershell
+Notendur eru með firefox
 
 Yfirkennarar
 Skólastjóri: Aðalbjörg Hlín Brynjólfsdóttir, account merktur sensetive - cannot be delegated
