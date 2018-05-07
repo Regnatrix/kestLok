@@ -12,8 +12,9 @@ Setja upp chrome, kennara eiga að vera með Innu sem upphafssíðu,
 Tbr með forritun.is sem home page 
 UF með tskoli.is sem home page
 Kennarar með innu sem home page
-Setti upp firefox, sömu upphafssíður á brautirnar og á chrome.
-Firefox er með læst history hjá nemendum, með physhing protection enabled og vistar ekki form data
+Setti upp firefox fyrir alla, homepage stillt sama og á chrome (*)
+Firefox er með læst history hjá nemendum, með physhing protection enabled
+firefox vistar ekki form data hjá notendum (allir)
 Disable Internet Explorer
 Setja kvóta á heimasvæði nemenda
 Setja kvóta á heimasvæði kennara
@@ -25,16 +26,21 @@ Anna Kolbrún Árnadóttir, account disabled - í fæðingarorlofi :)
 
 04.05.18
 Nemendur eru með safe browsing á chrome
-Nemendur geta ekki eytt history úr chrome eða eytt browsernum sjálfum úr tölvunni
-Nemendur geta ekki notað incognito mode
+Nemendur geta ekki eytt download history úr chrome eða eytt browsernum sjálfum úr tölvunni
 Allir: chrome spyr alltaf hvar notandi vill vista hluti áður en þeim er downloadað
 Allir eru með chrome sem default browser
-Allir eru með screensaverinn bubbles með 5 mín timeout
+Allir eru með screensaverinn bubbles með 5 mín timeout (ekki hægt að breyta)
 *Do not allow storage of passwords and credentials for network authentication
 Notendur geta ekki eytt prentara
 Nemendur geta ekki bætt við prentara
 Nemendur geta ekki notað powershell
 Notendur eru með firefox
+
+07.05.18
+Background mynd sett hjá öllum, ekki hægt að breyta
+redirect documents á heimasvæði
+chrome sýnir home takkann á toolbarnum
+Nemendur komast ekki inná 9gag eða facebook í chrome
 
 Yfirkennarar
 Skólastjóri: Aðalbjörg Hlín Brynjólfsdóttir, account merktur sensetive - cannot be delegated
