@@ -1,0 +1,76 @@
+Notendur til að kíkja inná:
+Kennarar:
+Aðalbjörg Hlín Brynjólfsdóttir, skólastjóri, adabry
+Anna Kolbrún Árnadóttir,disabled, annarn
+Nemendur:
+Grafísk miðlun:Silja Ingólfsdóttir, siling
+GUF, Jón Jósef Bjarnason, jonbja1
+Ljósmyndun: Signý Sigurðardóttir, sigsig
+Prentun: Pétur Guðjónsson, petgud1
+Tölvubraut: Arndís Einarsdóttir, arnein
+
+
+Prentarar:
+Setti upp sér prentara fyrir hverja deild og svo einn opinn fyrir alla
+GPO
+Nemendur geta ekki bætt við prentara
+Enginn getur eytt prentara
+
+Chrome:
+Allir eru með chrome
+GPO
+Heimasíður stilltar eftir deildum
+Allir eru með chrome sem default browser
+Allir: chrome spyr alltaf hvar notandi vill vista hluti áður en þeim er downloadað
+Chrome sýnir home takkann á toolbarnum
+Nemendur komast ekki inná 9gag eða facebook
+Nemendur eru með safe browsing á chrome
+Nemendur geta ekki eytt download history úr chrome eða eytt browsernum sjálfum úr tölvunni
+
+Firefox
+Allir notendur eru með firefox
+GPO
+Læst history hjá nemendum, með physhing protection enabled
+Allir: firefox vistar ekki form data hjá notendum
+
+Internet explorer
+Disabled hjá öllum
+
+Kvóti á heimasvæði
+Nemendur: 10MB
+Kennarar: 20MB
+
+Restriction
+Nemendur geta ekki notað task manager eða control panel
+
+Útlit
+Allir eru með screensaverinn bubbles með 5 mín timeout (ekki hægt að breyta)
+Background mynd sett hjá öllum, ekki hægt að breyta
+
+
+Yfirkennarar
+Skólastjóri: Aðalbjörg Hlín Brynjólfsdóttir, account merktur sensetive - cannot be delegated
+Tölvubraut: Ari Teitsson
+Prentun: Anton Jóhannesson
+Grafísk miðlun: Aðalheiður Jóhannsdóttir
+Ljósmyndun: Andri Ottesen
+GUF: Agnar Jón Egilsson
+
+Auka stillingar á ákveðna notendur
+René Biasone, skiptinemi, account rennur út 31. maí.
+Anna Kolbrún Árnadóttir, account disabled - í fæðingarorlofi
+Kennarar skulu vera með Admin aðgang að Win8.1 tölvunum. (?)
+
+
+Annað
+prompt password from hibernation/suspend (allir)
+Do not allow storage of passwords and credentials for network authentication
+Nemendur geta ekki notað powershell
+redirect documents á heimasvæði
+sýna skráarendingar hjá öllum
+setti inn notepad++ hjá öllum, kemur ekki á desktop
+A drif falið hjá öllum
+
+***
+extra pælingar
+nemendur og kennarar geta alltaf loggað sig inná þannig þeir eru ekki heftir log on hours fyrir verkefnavinnu.
